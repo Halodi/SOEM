@@ -1,3 +1,9 @@
+soem (1.4.0-halodi1~xenial1) xenial; urgency=medium
+
+  * Build for xenial
+
+ -- Jesper Smith <jesper@halodi.com>  Wed, 07 Apr 2021 17:13:56 +0200
+
 soem (1.4.0-halodi1) focal; urgency=medium
 
   * Updated to SOEM 1.4.0
