@@ -1,3 +1,9 @@
+soem (1.3.3-halodi7) focal; urgency=medium
+
+  * Updated to SOEM 1.4.0
+
+ -- Jesper Smith <jesper@halodi.com>  Wed, 07 Apr 2021 17:10:29 +0200
+
 soem (1.3.3-halodi6) focal; urgency=medium
 
   * Fix compile error
