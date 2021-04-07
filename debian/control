@@ -1,0 +1,12 @@
+Source: soem
+Section: misc
+Priority: optional
+Maintainer: Jesper Smith <jesper@halodi.com>
+Build-Depends: debhelper (>= 9), cmake
+Standards-Version: 4.1.2
+Homepage: https://github.com/Halodi/SOEM
+
+Package: soem
+Architecture: any
+Depends: 
+Description: Simple Open Source EtherCAT Master 
